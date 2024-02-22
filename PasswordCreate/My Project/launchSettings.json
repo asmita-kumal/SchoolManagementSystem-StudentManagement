@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "PasswordCreate": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true,
+      "hotReloadEnabled": true,
+      "jsWebView2Debugging": true,
+      "sqlDebugging": true,
+      "nativeDebugging": true,
+      "authenticationMode": "Windows"
+    },
+    "Profile 1": {
+      "commandName": "Executable"
+    }
+  }
+}
